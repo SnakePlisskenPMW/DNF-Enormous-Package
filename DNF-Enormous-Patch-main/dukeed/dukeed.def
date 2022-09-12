@@ -1,0 +1,17 @@
+LIBRARY
+EXPORTS
+	DukeSharp_FindActorClasses @1
+	DukeSharp_Exec @2
+	DukeSharp_Get  @3
+	DukeSharp_CreateTextureViewport @4
+	DukeSharp_BuildBrush @5
+	DukeSharp_GetParentWindow @6
+	DukeSharp_GetClassFlags @7
+	DukeSharp_ToggleEditor @8
+	DukeSharp_CreateStaticMeshViewport @9
+	DukeSharp_SetPreviewStaticMesh @10
+	DukeSharp_AddStaticModelToLevel @11
+	DukeSharp_CreateEditorViewport @12
+	DukeSharp__ResizeViewport @13
+	DukeSharp_RemoveCollisionAndPortalsBeta @14
+	DukeSharp_SetViewportType @15
