@@ -9,13 +9,13 @@ The Editor was being exclusively coded in mind to DNF-reimposition mod by him.
 
 # Goal 
 We plan to make it easy for modders and players even mappers to 
-play custom content without problem.
+play custom content with ease in doing so.
 
 # Install Guide Step by Step
-Still working in progress at the moment
+Still work in progress at the moment
 
 # Like to help
-Contact Snake for more info be sure to follow his guidelines he set in place.
+Contact Snake on Discord for more info be sure to follow his guidelines he set in place.
 
 # Join the communities
 Come join the Outer Heaven Gaming Discord our Game & Research Group. 
@@ -35,6 +35,5 @@ Duke Nukem Forever Community: https://discord.gg/eRWJPe2WTx
 # Support and buy copy 
 Go support Gearbox by buying Duke Nukem Forever on Steam. And be nice.
 Be mindful this project is not affialated with Gearbox Software anyway. 
-
 
 
